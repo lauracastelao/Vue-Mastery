@@ -1,4 +1,4 @@
-# vuetify-dashboard
+# Vue Mastery tutorial.
 
 ## Project setup
 ```
